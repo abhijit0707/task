@@ -1,0 +1,289 @@
+body {
+  font-family: "sen", helvetica, arial, sans-serif;
+}
+#div1 {
+  background-image: url(banner.jpg);
+  background-size: 100%;
+  width: 100%;
+}
+#navbar {
+  color: white;
+}
+#read1 {
+  color: black;
+  text-decoration: none;
+}
+#a {
+  margin-left: 45%;
+  color: white;
+  text-decoration: none;
+}
+#contact {
+  color: white;
+  text-decoration: none;
+
+  right: 2%;
+}
+
+#signin {
+  position: absolute;
+  right: 5%;
+  border-radius: 10px;
+  text-decoration: none;
+  margin: 1px;
+}
+#sign {
+  color: black;
+  text-decoration: none;
+}
+.a {
+  margin-left: 7%;
+  margin-top: 0px;
+}
+
+/* ................. */
+#breakfastWrap {
+  display: flex;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  
+}
+#section2 {
+  margin-left: 7rem;
+  width: 80%;
+}
+
+#wel {
+  margin-left: 29%;
+  color: white;
+  /* margin-bottom: 10%;   */
+  margin-top: 7%;
+}
+#land {
+  margin-left: 37%;
+  margin-top: 2%;
+  font-size: 30px;
+  color: white;
+}
+#p1 {
+  color: white;
+  /* margin-left: 13%; */
+  font-size: small;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#p2 {
+  color: white;
+  margin-left: 35%;
+  font-size: small;
+  margin-top: -1%;
+}
+button {
+  margin-left: 43%;
+  width: 10%;
+  height: 2rem;
+  border-radius: 5px;
+  border: none;
+  text-decoration: none;
+  color: white;
+}
+#form1 {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  /*height: none;*/
+  margin-left: 10%;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  margin-bottom: 5%;
+}
+
+.input {
+  background-color: #b4b4b4;
+  padding: 10px;
+  width: 170px;
+  border-radius: 10px;
+  border: none;
+}
+.book {
+  color: white;
+  text-decoration: none;
+}
+#book {
+  margin-top: 40px;
+  width: 10%;
+  height: 20px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#div21 {
+  width: 40%;
+}
+#flovers {
+  display: flex;
+  margin-left: 0%;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+/*.room{
+    margin-left: 0%;
+    display: flex;
+    margin-bottom: 10px;*/
+
+#food {
+  /* display: flex; */
+  /* margin: 10px; */
+  /* margin-bottom: 100px;*/
+  /* margin-left: 15%; */
+}
+#div24 {
+  /* width: 38%; */
+  align-items: flex-end;
+margin-left: 20px;
+margin-bottom: 20px;
+  font-family: "sen", helvetica, ariel, sans-serif;
+}
+
+#our {
+  font-size: 40px;
+  font-weight: 10;
+  margin-bottom: 10px;
+  
+}
+#breakfast {
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+#div31 {
+  width: 35%;
+  margin-top: 6rem;
+  margin-left: 14rem;
+}
+
+#div3 {
+  display: flex;
+  background-color: #353e4f;
+  justify-content: space-around;
+  height: 27rem;
+  color: white;
+}
+.about {
+  margin-top: 3.7rem;
+}
+.h1 {
+  font-family: "sen", helvetica, arial, sans-serif;
+}
+#div4 {
+  position: relative;
+  color: white;
+  background-image: url(tes_bg.jpg);
+  font-family: "sen", Arial, Helvetica, sans-serif;
+}
+
+footer {
+  background-color: #242422;
+  height: 38vh;
+  padding: 40px;
+}
+#circle {
+  position: absolute;
+  bottom: 61%;
+  right: 46.5;
+}
+#form2 {
+  background-color: #d75309;
+  width: 23%;
+  height: 20rem;
+  position: absolute;
+  right: 10%;
+  bottom: 4em;
+  border-radius: 10px;
+  padding: 20px;
+}
+input {
+  width: 91%;
+  border-radius: 10px;
+  margin: 2px;
+  padding: 10px;
+  border: none;
+}
+#message {
+  height: 12%;
+}
+#send {
+  background-color: black;
+  color: white;
+  width: 40%;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 20%;
+}
+.send {
+  text-decoration: none;
+  color: white;
+}
+#testimonial {
+  text-align: center;
+  color: black;
+}
+#mark {
+  width: 40%;
+  margin-top: 37px;
+  background-color: #d75309;
+  margin-bottom: 170px;
+  height: 8rem;
+  margin-left: 7%;
+  padding: 15px;
+  font-size: smaller;
+}
+#mark1 {
+  display: inline-block;
+}
+#mac {
+  width: 40%;
+  font-size: smaller;
+  height: 8rem;
+  padding: 15px;
+  background-color: #d75309;
+  position: absolute;
+  right: 7%;
+  top: 10%;
+}
+.name {
+  font-size: small;
+  display: inline-block;
+}
+.img11 {
+  position: relative;
+  left: 85%;
+}
+.img12 {
+  position: relative;
+  left: 80%;
+}
+#seemore {
+  color: white;
+  text-decoration: none;
+}
+.seemore {
+  background-color: black;
+  width: 10em;
+  margin-left: 5px;
+}
+#readmore {
+  color: white;
+  text-decoration: none;
+}
+.readmore {
+  background-color: black;
+  width: 10em;
+  margin-right: 7px;
+}
+/*@media  and (min-width:0px) and (max-width:300px)*/  
